@@ -52,3 +52,23 @@ Name: Insertar Unicode de ñ
 Description: Inserts Unicode
 Binding: add_n_tld
 Interactive: false
+
+Name: Surround with citet
+Description: Inserts knitcations::citet
+Binding: knitcitet
+Interactive: false
+
+Name: Surround with citep
+Description: Inserts knitcations::citep
+Binding: knitcitep
+Interactive: false
+
+Name: Surround with citet for package
+Description: Inserts knitcations::citet
+Binding: knitcitetp
+Interactive: false
+
+Name: Surround with citep for package
+Description: Inserts knitcations::citep
+Binding: knitcitepp
+Interactive: false
