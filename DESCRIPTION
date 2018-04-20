@@ -1,9 +1,11 @@
 Package: insuc
 Title: Insert Unicode Characters
-Version: 0.0.0.9000
+Version: 0.0.1.9000
 Authors@R: person("Reinhard", "Simon", email = "rsimon64@gmnail.com", role = c("aut", "cre"))
 Description: Insert Unicode Characters for Spanish texts in knitr texts
 Depends: R (>= 3.4.4)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
+Imports: rstudioapi
+Suggests: knitcitations
