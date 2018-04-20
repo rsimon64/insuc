@@ -1,0 +1,54 @@
+Name: Insertar Unicode de á
+Description: Inserts Unicode
+Binding: add_a_acc
+Interactive: false
+
+Name: Insertar Unicode de é
+Description: Inserts Unicode
+Binding: add_e_acc
+Interactive: false
+
+Name: Insertar Unicode de í
+Description: Inserts Unicode
+Binding: add_i_acc
+Interactive: false
+
+Name: Insertar Unicode de ó
+Description: Inserts Unicode
+Binding: add_o_acc
+Interactive: false
+
+Name: Insertar Unicode de ú
+Description: Inserts Unicode
+Binding: add_u_acc
+Interactive: false
+
+Name: Insertar Unicode de Á
+Description: Inserts Unicode
+Binding: add_A_acc
+Interactive: false
+
+Name: Insertar Unicode de Ë
+Description: Inserts Unicode
+Binding: add_E_acc
+Interactive: false
+
+Name: Insertar Unicode de Í
+Description: Inserts Unicode
+Binding: add_I_acc
+Interactive: false
+
+Name: Insertar Unicode de Ó
+Description: Inserts Unicode
+Binding: add_O_acc
+Interactive: false
+
+Name: Insertar Unicode de Ü
+Description: Inserts Unicode
+Binding: add_U_acc
+Interactive: false
+
+Name: Insertar Unicode de ñ
+Description: Inserts Unicode
+Binding: add_n_tld
+Interactive: false
